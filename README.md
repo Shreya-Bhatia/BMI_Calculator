@@ -4,5 +4,4 @@ An app made using flutter which can calculate the BMI(Body Mass Index) of a pers
 
 The app is as follows :
 
-https://github.com/Shreya-Bhatia/BMI_Calculator/assets/145146751/70d1a9d7-977b-44dc-8092-e6e4b8eea6a6
-
+https://github.com/Shreya-Bhatia/BMI_Calculator/assets/145146751/2622020f-10b4-4bb1-93cd-b5090879d7ff
